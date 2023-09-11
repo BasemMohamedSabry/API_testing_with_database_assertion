@@ -1,4 +1,6 @@
 # API_testing_with_database_assertion
+Run command:
+robot --variablefile Resources/Project_Configration/TEST_Config.yaml  Tests/
 #install
 
 PyYAML==6.0
