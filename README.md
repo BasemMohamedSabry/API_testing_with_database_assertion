@@ -1,4 +1,20 @@
 # API_testing_with_database_assertion
+#install
+
+PyYAML==6.0
+robotframework-databaselibrary==1.2.4
+robotframework-requests==0.9.4
+robotframework-seleniumlibrary==5.1.3
+robotframework-jsonlibrary
+robotframework-datadriver==1.6.1
+robotframework-datadriver[XLS]
+robotframework==3.2.2
+robotframework-reportportal==5.0.4
+six==1.16.0
+reportportal-client==5.0.6
+robotframework-pabot==2.7.0
+robotframework-httplibrary==0.4.2
+robotframework-restlibrary==1.0
 # Introduction 
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
